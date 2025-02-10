@@ -1,0 +1,157 @@
+<universidad>
+   
+    <facultades>
+        <facultad>
+           <nombre>nombre_facultad</nombre>
+           <decano>nombre</decano>
+           <departamentos>
+            <departamento>
+              <nombre>nombre_departamento</nombre>
+               <jefe_departamento>nombre_jefe_departamento</jefe_departamento>
+               <carreras>
+                    <carrera>
+                    <nombre>nombre_carrera</nombre>
+                    <duracion>anios</duracion>
+                    <coordinador>nombre_coordinador</coordinador>
+                    <cursos>
+                        <curso>
+                          <nombre>nombre_curso1</nombre>
+                          <codigo>codigo_curso</codigo>
+                          <profesor>nombre_profesor</profesor>
+                          <semestre>semestre_imparte</semestre>
+                                <estudiantes>
+                                    <estudiante>nombre_estudiante1</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                    <codigo>codigo_estudiante</codigo>
+                                </estudiantes>
+
+                                 <estudiantes>
+                                    <estudiante>nombre_estudiante2</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                   <codigo>codigo_estudiante</codigo>
+                                </estudiantes>
+
+                                 <estudiantes>
+                                    <estudiante>nombre_estudiante3</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                    <codigo>codigo_estudiante</codigo>
+                                 </estudiantes>
+                        </curso>
+     
+                        <curso>
+                            <nombre>nombre_curso2</nombre>
+                            <codigo>codigo_curso</codigo>
+                            <profesor>nombre_profesor</profesor>
+                            <semestre>semestre_imparte</semestre>
+                            <estudiantes>
+                                <estudiante>nombre_estudiante1</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                                <codigo>codigo_estudiante</codigo>
+                            </estudiantes>
+
+                             <estudiantes>
+                                <estudiante>nombre_estudiante2</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                               <codigo>codigo_estudiante</codigo>
+                            </estudiantes>
+
+                             <estudiantes>
+                                <estudiante>nombre_estudiante3</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                                <codigo>codigo_estudiante</codigo>
+                             </estudiantes>
+                            
+                            </curso>
+                            
+                        </cursos>
+
+                    </carrera>
+               
+                </carreras>
+
+             </departamento>
+           
+            </departamentos>
+        
+        </facultad>
+    
+    </facultades>
+
+    <facultades>
+        <facultad>
+           <nombre>nombre_facultad</nombre>
+           <decano>nombre</decano>
+           <departamentos>
+             <departamento>
+              <nombre>nombre_departamento</nombre>
+               <jefe_departamento>nombre_jefe_departamento</jefe_departamento>
+               <carreras>
+                    <carrera>
+                    <nombre>nombre_carrera</nombre>
+                    <duracion>anios</duracion>
+                    <coordinador>nombre_coordinador</coordinador>
+                    <cursos>
+                        <curso>
+                          <nombre>nombre_curso1</nombre>
+                          <codigo>codigo_curso</codigo>
+                          <profesor>nombre_profesor</profesor>
+                          <semestre>semestre_imparte</semestre>
+                                <estudiantes>
+                                    <estudiante>nombre_estudiante1</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                    <codigo>codigo_estudiante</codigo>
+                                </estudiantes>
+
+                                 <estudiantes>
+                                    <estudiante>nombre_estudiante2</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                   <codigo>codigo_estudiante</codigo>
+                                </estudiantes>
+
+                                 <estudiantes>
+                                    <estudiante>nombre_estudiante3</estudiante>
+                                    <fecha_nacimiento>fecha</fecha_nacimiento>
+                                    <codigo>codigo_estudiante</codigo>
+                                 </estudiantes>
+                        </curso>
+     
+                        <curso>
+                            <nombre>nombre_curso2</nombre>
+                            <codigo>codigo_curso</codigo>
+                            <profesor>nombre_profesor</profesor>
+                            <semestre>semestre_imparte</semestre>
+                            <estudiantes>
+                                <estudiante>nombre_estudiante1</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                                <codigo>codigo_estudiante</codigo>
+                            </estudiantes>
+
+                             <estudiantes>
+                                <estudiante>nombre_estudiante2</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                               <codigo>codigo_estudiante</codigo>
+                            </estudiantes>
+
+                             <estudiantes>
+                                <estudiante>nombre_estudiante3</estudiante>
+                                <fecha_nacimiento>fecha</fecha_nacimiento>
+                                <codigo>codigo_estudiante</codigo>
+                             </estudiantes>
+                            
+                        </curso>
+                            
+                     
+                    </cursos>
+               </carrera>
+                 
+                   
+            </carreras>
+            </departamento>
+               
+      </departamentos>
+                
+        </facultad>
+    
+    </facultades>
+
+</universidad>

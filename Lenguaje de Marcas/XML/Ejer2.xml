@@ -1,0 +1,109 @@
+<hechos_historicos>
+    <hecho_historico>
+      <hecho>Ábaco</hecho>
+      <anio>3500 A.C.</anio>
+      <mes></mes>
+      <dia></dia>
+      <autor></autor>
+      <descripcion>Es el dispositivo mas antiguo utilizado para realizar operaciones aritmeticas</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+      <hecho>calculadora universal</hecho>
+      <anio>1646</anio>
+      <mes>marzo</mes>
+      <dia>8</dia>
+      <autor>leibnitz</autor>
+      <descripcion>maquina que suma, resta, multiplica, divide y hace raices cuadradas</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+     <hecho>maquina analitica</hecho>
+     <anio>1792</anio>
+     <mes>marzo</mes>
+     <dia>14</dia>
+     <autor>charles babbage y ada lovelace</autor>
+     <descripcion>maquina que resolvia funciones y obtenia tablas</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+     <hecho>varias maquinas</hecho>
+     <anio>1852</anio>
+     <mes>abril</mes>
+     <dia>12</dia>
+     <autor>torres quevedo</autor>
+     <descripcion>construyo una maquina para jugar al ajedrez y una calculadora</descripcion>
+     </hecho_historico>
+    <hecho_historico>
+      <hecho>maquina de turing</hecho>
+      <anio>1936</anio>
+      <mes>septiembre</mes>
+      <dia>15</dia>
+      <autor>alan turing</autor>
+      <descripcion>maquina capaz de resolver todo tipo de problemas con la solucion algoritmica.Con turing se inicio la teoria matematica de la computacion</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+       <hecho>ordenador digital electronico</hecho> 
+       <fecha>
+          <anio>1943</anio>
+          <mes></mes>
+          <dia></dia>
+       </fecha>
+       <autor>maurice V. Wilkes</autor> 
+       <descripcion>el primer ordenador del mundo fue el EDSAC, desarrollado en la univerdiad de cambridge</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+        <hecho>segunda generacion de ordenadores</hecho>
+        <fecha>
+            <anio>1958</anio>
+            <mes></mes>
+            <dia></dia>
+        </fecha>
+        <autor>IBM</autor>
+        <descripcion>reemplaza las valvulas de vacio por los transistores. son mas pequeños y onsumen menos electricidad</descripcion>
+    </hecho_historico>
+    <hecho_historico>
+        <hecho>codigo ASCII</hecho>
+        <fecha>
+            <anio>1963</anio>
+            <mes></mes>
+            <dia></dia>
+        </fecha>
+        <autor>ANSI</autor>
+        <desripcion>nace a patir de reordenar y expandir el conjuntos de simbolosy caracteres utlizados en aquel momentoen telegrafia por la compañia bell</desripcion>
+    </hecho_historico>
+    <hecho_historico>
+      <hecho>chips</hecho>
+      <fecha>
+       <anio>1964</anio>
+       <mes></mes>
+       <dia></dia>
+      </fecha>
+      <autor> jack S. kilby y robert noyce</autor>
+      <descripcion>estructura de pequeñas dimensiones de material semiconductor, sobre la que se fabrican circuitos electronicos</descripcion>
+
+    </hecho_historico>
+    <hecho_historico>
+      <hecho>ARPANET</hecho>
+      <fecha>
+        <anio>1969</anio>
+        <mes></mes>
+        <dia></dia>
+      </fecha>
+      <autor>MIT(Massachusetts Institute of Technology)</autor>
+      <descripcion>red de computadoras construidas en 1969como un medio para enviar datos militaresy conectar grupos de investigacion, a traves de los estados unidos</descripcion>
+
+    </hecho_historico>
+    <hecho_historico>
+      <hecho>MS-DOS</hecho>
+      <fecha>
+       <anio>1981</anio>
+       <mes></mes>
+       <dia></dia>
+      </fecha>
+      <autor>microsoft</autor>
+      <descripcion>es un sistema operativo de discopara el IBM PC y sistemas compatibles. este sistema operativo</descripcion>
+    
+    </hecho_historico>
+       
+        
+
+   
+</hechos_historicos>

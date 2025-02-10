@@ -1,0 +1,31 @@
+<feria_libros xmlns:libros="https://ejemplolibros.com/libros" xmlns:obras="https://ejemploobras.com/obras">
+   
+   
+    <items>
+    <libros:item id="1">
+     <nombre>El principito</nombre>
+     <descripcion>es un libro muy interesante y divertida</descripcion>
+    </item>
+    <libros:item id="2">
+     <nombre>Harry Potter</nombre>
+     <descripcion>es un libro muy interesante de magos y brujas</descripcion>
+    </item>
+    <libros:item id="3">
+     <nombre>El señor de los anillos</nombre>
+     <descripcion>es un libro muy interesante y divertida sobre las aventuras de un hobbit</descripcion>
+    </item>
+
+    <obra:item id="13">
+     <nombre>La oreja de van gogh</nombre>
+     <descripcion>es una obra muy interesante que muestra la vida del autor</descripcion>
+    </item>
+    <obra:item id="21">
+     <nombre>Noche estrellada</nombre>
+     <descripcion>es una obra muy interesante y bonita</descripcion>
+    </item>
+    <obra:item id="14">
+     <nombre>Copernico</nombre>
+     <descripcion>es una obra muy interesante y divertida</descripcion>
+    </item>
+    </items>
+</feria_libros>

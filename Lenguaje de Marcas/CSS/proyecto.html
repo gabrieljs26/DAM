@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="#art">MY ART</a>
+        <a href="#about">ABOUT</a>
+        <a href="#contact">CONTACT ME</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="art" class="container">
+        <div class="hijo">
+          <img src="image1.jpg" alt="Imagen 1" class="gallery" />
+          <img src="image2.jpg" alt="Imagen 2" class="gallery" />
+          <img src="image3.jpg" alt="Imagen 3" class="gallery" />
+        </div>
+
+        <div class="hijo">
+          <img src="image4.jpg" alt="Imagen 4" class="gallery" />
+          <img src="image5.jpg" alt="Imagen 5" class="gallery" />
+        </div>
+      </section>
+      <section id="about" class="container2">
+        <div class="h2">
+          <h2 class="about" #about>About</h2>
+        </div>
+
+        <div class="hijo2">
+          <img
+            src="Imagen de WhatsApp 2025-02-07 a las 16.38.44_92194d18.jpg"
+            alt="imagen6"
+            class="gallery2"
+          />
+
+          <p>
+            Desde pequeño siempre tuve una conexion especial con el arte, aunque
+            no lo comprendia del todo en aquel entonces. Las paredes eran mis
+            primeros lienzos, donde daba rienda suelta a mi imaginacion con
+            trazos torpes pero llenos de vida. Con el tiempo, mi curiosidad por
+            el color, la textura y las formas se trasnformo en una pasion que
+            alimentaba cada dia. Mis obras son un reflejo de mi mundo interior,
+            un caledioscopio de emociones, recuerdos y sueños. Me inspiran las
+            historias de las personas que me rodean, los paisajes que he
+            explorado y las experiencias que he vivido. Para mi , el arte no es
+            solo un medio de expresion, sino una forma de conectar con quienes
+            encuentran en mis piezas un eco de sus propias emociones.
+          </p>
+        </div>
+      </section>
+      <section id="contact" class="contact">
+        <h2 class="titulo">No dudes en contactarme!</h2>
+
+        <form
+          action="ejemplo.www"
+          enctype="multipart/form-data"
+          method="post"
+          class="formulario"
+        >
+          <label for="name"> <strong>Nombre:</strong> </label>
+          <input type="text" id="name" required />
+
+          <label for="email"> <strong>Email:</strong></label>
+          <input type="email" id="email" required />
+
+          <label for="message"> <strong>Mensaje:</strong></label>
+          <input type="text" id="message" required />
+
+          <button class="button" type="submit">Enviar</button>
+        </form>
+      </section>
+    </main>
+
+    <footer><p>Made by Lenguaje de marcas</p></footer>
+  </body>
+</html>

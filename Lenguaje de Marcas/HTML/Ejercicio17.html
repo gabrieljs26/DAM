@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>
+      <p><strong>Payment form</strong></p>
+    </h1>
+
+    <p>Required fields are followed by *</p>
+
+    <h2>
+      <p><strong>Contact Information</strong></p>
+    </h2>
+
+    <fieldset>
+      <legend>Title</legend>
+      <p>
+        <input type="radio" name="size" id="size_1" value="small" />
+        <label for="size_1">Ace</label>
+      </p>
+      <p>
+        <input type="radio" name="size" id="size_2" value="small" />
+        <label for="size_2">King</label>
+      </p>
+      <p>
+        <input type="radio" name="size" id="size_3" value="small" />
+        <label for="size_3">Queen</label>
+      </p>
+    </fieldset>
+
+    <div>
+      <label for="name"> Nombre:</label>
+    </div>
+    <div>
+      <input type="text" id="name" name="user_name" />
+    </div>
+    <div>
+      <label for="Email"> Email:</label>
+    </div>
+    <div>
+      <input type="email" id="email" name="user_name" />
+    </div>
+    <div>
+      <label for="Password"> Password:</label>
+    </div>
+    <div>
+      <input type="password" id="Password" name="user_name" />
+    </div>
+
+    <h3><strong>Payment information</strong></h3>
+
+    <label for="Cardtype">CardType:</label>
+    <select name="CardType" id="CardTyper">
+      <option>Visa</option>
+      <option>MasterCard</option>
+      <option>Pass Carrefour</option>
+    </select>
+
+    <div>
+      <label for="Card Number">Card Number</label>
+    </div>
+    <div>
+      <input type="Card Number" id="Card" name="card" />
+    </div>
+
+    <div>
+      <label for="date">Expiration Date</label>
+    </div>
+    <div>
+      <input type="date" id="date" name="date" />
+    </div>
+    <div>
+      <li class="button">
+        <button type="submit">Validate the payment</button>
+      </li>
+    </div>
+  </body>
+</html>

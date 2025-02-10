@@ -1,0 +1,284 @@
+<liga_fantasy>
+
+    <ligas>
+        <liga>
+            <nombre>liga_gabi</nombre>
+            <pais>españa</pais>
+            <equipos>
+                <equipo>
+                    <nombre_equipo>pololos</nombre_equipo>
+                    <ciudad>murcia</ciudad>
+                    <jugadores>
+                        <jugador>
+                            <nombre_jugador>james_rodriguez</nombre_jugador>
+                            <edad>24 anios</edad>
+                            <posicion>defensa</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>12/03/2023
+                                <puntos_partido>78</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>14/05/2023
+                                    <puntos_partido>48</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrella</nombre_rol>
+                                <coste>100.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>demonio</nombre_rol>
+                                    <coste>570.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+
+                        <jugador>
+                            <nombre_jugador>cristiano_ronaldo</nombre_jugador>
+                            <edad>22 anios</edad>
+                            <posicion>delantero</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>22/03/2023
+                                <puntos_partido>98</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>27/05/2023
+                                    <puntos_partido>88</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrella</nombre_rol>
+                                <coste>980.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>demonio</nombre_rol>
+                                    <coste>170.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+                    </jugadores>
+                  
+                
+                </equipo>
+
+                <equipo>
+                    <nombre_equipo>colos</nombre_equipo>
+                    <ciudad>murcia</ciudad>
+                    <jugadores>
+                        <jugador>
+                            <nombre_jugador>gabriel_gutierrez</nombre_jugador>
+                            <edad>21 anios</edad>
+                            <posicion>centrocampista</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>02/03/2023
+                                <puntos_partido>100</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>24/05/2023
+                                    <puntos_partido>238</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrellaflash</nombre_rol>
+                                <coste>190.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>angel</nombre_rol>
+                                    <coste>920.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+
+                        <jugador>
+                            <nombre_jugador>messi</nombre_jugador>
+                            <edad>22 anios</edad>
+                            <posicion>delantero</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>12/03/2023
+                                <puntos_partido>179</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>27/09/2023
+                                    <puntos_partido>128</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>pulga</nombre_rol>
+                                <coste>980.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>goat</nombre_rol>
+                                    <coste>170.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+                    </jugadores>
+                  
+                
+                </equipo>
+
+               
+
+            </equipos>
+
+        </liga>
+        
+        <liga>
+            <nombre>liga_uefa</nombre>
+            <pais>españa</pais>
+            <equipos>
+                <equipo>
+                    <nombre_equipo>team_peñon</nombre_equipo>
+                    <ciudad>murcia</ciudad>
+                    <jugadores>
+                        <jugador>
+                            <nombre_jugador>sergio_ramos</nombre_jugador>
+                            <edad>24 anios</edad>
+                            <posicion>defensa</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>12/03/2023
+                                <puntos_partido>78</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>14/05/2023
+                                    <puntos_partido>48</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrella</nombre_rol>
+                                <coste>100.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>demonio</nombre_rol>
+                                    <coste>570.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+
+                        <jugador>
+                            <nombre_jugador>andres_iniesta</nombre_jugador>
+                            <edad>22 anios</edad>
+                            <posicion>delantero</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>22/03/2023
+                                <puntos_partido>98</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>27/05/2023
+                                    <puntos_partido>83</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrella</nombre_rol>
+                                <coste>980.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>demonio</nombre_rol>
+                                    <coste>170.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+                    </jugadores>
+                  
+                
+                </equipo>
+
+                <equipo>
+                    <nombre_equipo>favs</nombre_equipo>
+                    <ciudad>murcia</ciudad>
+                    <jugadores>
+                        <jugador>
+                            <nombre_jugador>raul_gutierrez</nombre_jugador>
+                            <edad>21 anios</edad>
+                            <posicion>centrocampista</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>02/03/2023
+                                <puntos_partido>100</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>24/05/2023
+                                    <puntos_partido>238</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>estrellaflash</nombre_rol>
+                                <coste>190.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>angel</nombre_rol>
+                                    <coste>920.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador>
+
+                        <jugador>
+                            <nombre_jugador>harold_rios</nombre_jugador>
+                            <edad>22 anios</edad>
+                            <posicion>delantero</posicion>
+                            <puntos>
+                                <punto>
+                                <fechapartido>12/03/2023
+                                <puntos_partido>179</puntos_partido>
+                                </punto>
+
+                                <punto>
+                                    <fechapartido>27/09/2023
+                                    <puntos_partido>128</puntos_partido>
+                                </punto>
+                            </puntos>
+                            <roles>
+                                <rol>
+                                <nombre_rol>pulga</nombre_rol>
+                                <coste>980.000</coste>
+                                </rol>
+                                <rol>
+                                    <nombre_rol>goat</nombre_rol>
+                                    <coste>170.000</coste>
+                                </rol>
+                            </roles>
+                        </jugador_2>
+                    </jugadores>
+                  
+                
+                </equipo>
+
+               
+
+            </equipos>
+
+        </liga>
+
+
+       
+
+
+    </ligas>
+
+    <equipo_fantasy>
+        <nombre_fantasy>el_fav</nombre_fantasy>
+        <presupuesto_total>100000000</presupuesto_total>
+        <numero_jugadores>11</numero_jugadores>
+    </equipo_fantasy>
+
+</liga_fantasy>

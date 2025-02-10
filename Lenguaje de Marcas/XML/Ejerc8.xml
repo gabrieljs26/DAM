@@ -1,0 +1,126 @@
+<almacen>
+     <productos>
+
+        <producto>
+            <nombre>movil</nombre>
+                <codigo_producto>1<codigo_producto>
+                <categoria>informatica<categoria>
+                <precio>300$</precio>
+                <fecha_caducidad>12/12/2029</fecha_caducidad>
+                <ubicaciones>
+
+                    <ubicacion>
+                        <numero_pasillo>2</numero_pasillo>
+                        <numero_estante>32<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+
+                    </ubicacion>
+                    <ubicacion>
+                        <numero_pasillo>8</numero_pasillo>
+                        <numero_estante>2<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+                    </ubicacion>
+
+
+                </ubicaciones>
+
+                <proveedores>
+                    <proveedor>
+                        <nombre>apple</nombre>
+                        <direccion>calle_cartagena</direccion>
+                        <numero_telefono>676901952<numero_telefono>
+
+                    </proveedor>
+                    <proveedor>
+                        <nombre>android</nombre>
+                        <direccion>calle_mazarron</direccion>
+                        <numero_telefono>676901567<numero_telefono>
+                    </proveedor>
+
+                </proveedores>
+        </producto>  
+
+        <producto>
+            <nombre>portatil</nombre>
+                <codigo_producto>2<codigo_producto>
+                <categoria>informatica<categoria>
+                <precio>600$</precio>
+                <fecha_caducidad>12/12/2050</fecha_caducidad>
+                <ubicaciones>
+
+                    <ubicacion>
+                        <numero_pasillo>2</numero_pasillo>
+                        <numero_estante>32<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+
+                    </ubicacion>
+                    <ubicacion>
+                        <numero_pasillo>8</numero_pasillo>
+                        <numero_estante>2<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+                    </ubicacion>
+
+
+                </ubicaciones>
+                <proveedores>
+                    <proveedor>
+                        <nombre>apple</nombre>
+                        <direccion>calle_cartagena</direccion>
+                        <numero_telefono>676901952<numero_telefono>
+                            
+                    </proveedor>
+                    <proveedor>
+                        <nombre>android</nombre>
+                        <direccion>calle_mazarron</direccion>
+                        <numero_telefono>676901567<numero_telefono>
+                    </proveedor>
+
+                </proveedores>
+        </producto>  
+
+        <producto>
+            <nombre>reloj inteligente</nombre>
+                <codigo_producto>3<codigo_producto>
+                <categoria>informatica<categoria>
+                <precio>79$</precio>
+                <fecha_caducidad>13/09/2029</fecha_caducidad>
+                <ubicaciones>
+
+                    <ubicacion>
+                        <numero_pasillo>2</numero_pasillo>
+                        <numero_estante>32<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+
+                    </ubicacion>
+                    <ubicacion>
+                        <numero_pasillo>8</numero_pasillo>
+                        <numero_estante>2<numero_estante>
+                        <capacidad_max>15<capacidad_max>
+                    </ubicacion>
+
+
+                </ubicaciones>
+                <proveedores>
+                    <proveedor>
+                        <nombre>apple</nombre>
+                        <direccion>calle_cartagena</direccion>
+                        <numero_telefono>676901952<numero_telefono>
+                            
+                    </proveedor>
+                    <proveedor>
+                        <nombre>android</nombre>
+                        <direccion>calle_mazarron</direccion>
+                        <numero_telefono>676901567<numero_telefono>
+                    </proveedor>
+
+                </proveedores>
+        </producto>  
+
+
+
+     </productos>
+
+
+
+
+</almacen>

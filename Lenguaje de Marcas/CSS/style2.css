@@ -1,0 +1,15 @@
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 2em;
+}
+
+span {
+  color: red;
+}
+
+li.list {
+  color: none;
+}

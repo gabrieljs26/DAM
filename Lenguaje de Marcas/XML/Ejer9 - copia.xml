@@ -1,0 +1,52 @@
+<almacen xmnls:productos="https://ejemplo.com/productos" xmnls:clientes="https://ejemplo.com/clientes">
+<items>
+    <producto:item>
+        <producto:ID>1</producto:ID>
+        <producto:nombre>juguete</producto:nombre>
+        <producto:descripcion>jueguete de plastico</producto:descripcion>
+    </producto:item>
+    <producto:item>
+        <producto:ID>2</producto:ID>
+        <producto:nombre>portatil</producto:nombre>
+        <producto:descripcion>portatil con ryzen 5</producto:descripcion>
+    </producto:item>
+    <producto:item>
+        <producto:ID>3</producto:ID>
+        <producto:nombre>raton</producto:nombre>
+        <producto:descripcion>marca logitech</producto:descripcion>
+    </producto:item>
+
+    <clientes:item>
+        <clientes:ID>10</clientes:ID>
+        <clientes:nombre>Jose</clientes:nombre>
+        <clientes:descripcion>Hombre de mediana estatura</clientes:descripcion>
+    </clientes:item>
+    <clientes:item>
+        <clientes:ID>20</clientes:ID>
+        <clientes:nombre>Maria</clientes:nombre>
+        <clientes:descripcion>Mujer rubia</clientes:descripcion>
+    </clientes:item>
+
+    <clientes:item>
+        <clientes:ID>30</clientes:ID>
+        <clientes:nombre>Pedro</clientes:nombre>
+        <clientes:descripcion>Hombre Moreno</clientes:descripcion>
+    </clientes:item>
+
+</items>
+
+</almacen>
+
+
+
+
+
+
+<almacenes_mediamarkt xmlns:productos="https://ejemplo.com/productos"  >
+
+    <items>
+      <producto:item id="12">
+        <nombre></nombre>
+      </item>
+       
+    </items>

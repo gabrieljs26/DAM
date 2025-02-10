@@ -1,0 +1,466 @@
+<bibliotecas>
+      <biblioteca>
+        <nombre>nombre_biblioteca</nombre>
+        <direccion>calle_biblioteca</direccion>
+              <salas>
+                    <sala>
+                        <nombre>nombre_sala1</nombre>
+                        <capacidad>30_personas</capacidad>
+                            <estantes>
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                              <libro>
+
+                                                 <titulo>titulo_libro1</titulo>
+                                                 <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                        <autores>
+                                                              <autor>
+                                                                <nombre>nombre_autor1</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                              </autor>
+
+                                                              <autor>
+                                                                <nombre>nombre_autor2</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                              </autor>
+
+
+                                                        </autores>
+                                              </libro>
+
+                                              <libro>
+                                                <titulo>titulo_libro2</titulo>
+                                                <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                <autores>
+                                                    <autor>
+                                                      <nombre>nombre_autor1</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                    </autor>
+
+                                                    <autor>
+                                                      <nombre>nombre_autor2</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                    </autor>
+
+
+                                              </autores>
+                                             </libro>
+
+
+
+                                        </libros>
+                                 </estante>
+
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                            <libro>
+
+                                           <titulo>titulo_libro1</titulo>
+                                           <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                <autores>
+                                                      <autor>
+                                                          <nombre>nombre_autor1</nombre>
+                                                          <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                       </autor>
+
+                                                       <autor>
+                                                          <nombre>nombre_autor2</nombre>
+                                                          <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                         </autor>
+
+                                                </autores>
+                                             </libro>
+
+                                             <libro>
+
+                                          <titulo>titulo_libro2</titulo>
+                                          <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                 <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                                   </autores>
+                                              </libro>
+                                       </libros>
+                                 </estante>
+
+
+                            </estantes>
+                    </sala>
+
+
+
+                    <sala>
+                        <nombre>nombre_sala1</nombre>
+                        <capacidad>30_personas</capacidad>
+                            <estantes>
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                              <libro>
+
+                                                 <titulo>titulo_libro1</titulo>
+                                                 <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                        <autores>
+                                                              <autor>
+                                                                <nombre>nombre_autor1</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                              </autor>
+
+                                                              <autor>
+                                                                <nombre>nombre_autor2</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                              </autor>
+
+
+                                                        </autores>
+                                              </libro>
+
+                                              <libro>
+                                                <titulo>titulo_libro2</titulo>
+                                                <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                <autores>
+                                                    <autor>
+                                                      <nombre>nombre_autor1</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                    </autor>
+
+                                                    <autor>
+                                                      <nombre>nombre_autor2</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                    </autor>
+
+
+                                              </autores>
+                                             </libro>
+
+
+
+                                        </libros>
+                                 </estante>
+
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                            <libro>
+
+                                           <titulo>titulo_libro1</titulo>
+                                           <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                           <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                      </autores>
+                                             </libro>
+
+                                             <libro>
+
+                                          <titulo>titulo_libro2</titulo>
+                                          <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                          <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                      </autores>
+                                              </libro>
+                                       </libros>
+                                 </estante>
+
+
+                            </estantes>
+                    </sala>
+
+              </salas>
+
+
+      </biblioteca> 
+
+      <biblioteca>
+        <nombre>nombre_biblioteca</nombre>
+        <direccion>calle_biblioteca</direccion>
+              <salas>
+                    <sala>
+                        <nombre>nombre_sala1</nombre>
+                        <capacidad>30_personas</capacidad>
+                            <estantes>
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                              <libro>
+
+                                                 <titulo>titulo_libro1</titulo>
+                                                 <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                        <autores>
+                                                              <autor>
+                                                                <nombre>nombre_autor1</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                              </autor>
+
+                                                              <autor>
+                                                                <nombre>nombre_autor2</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                              </autor>
+
+
+                                                        </autores>
+                                              </libro>
+
+                                              <libro>
+                                                <titulo>titulo_libro2</titulo>
+                                                <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                <autores>
+                                                    <autor>
+                                                      <nombre>nombre_autor1</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                    </autor>
+
+                                                    <autor>
+                                                      <nombre>nombre_autor2</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                    </autor>
+
+
+                                              </autores>
+                                             </libro>
+
+
+
+                                        </libros>
+                                 </estante>
+
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                            <libro>
+
+                                           <titulo>titulo_libro1</titulo>
+                                           <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                           <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                      </autores>
+                                             </libro>
+
+                                             <libro>
+
+                                          <titulo>titulo_libro2</titulo>
+                                          <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                 <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                                   </autores>
+                                              </libro>
+                                       </libros>
+                                 </estante>
+
+
+                            </estantes>
+                    </sala>
+
+
+
+                    <sala>
+                        <nombre>nombre_sala1</nombre>
+                        <capacidad>30_personas</capacidad>
+                            <estantes>
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                              <libro>
+
+                                                 <titulo>titulo_libro1</titulo>
+                                                 <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                        <autores>
+                                                              <autor>
+                                                                <nombre>nombre_autor1</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                              </autor>
+
+                                                              <autor>
+                                                                <nombre>nombre_autor2</nombre>
+                                                                <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                              </autor>
+
+
+                                                        </autores>
+                                              </libro>
+
+                                              <libro>
+                                                <titulo>titulo_libro2</titulo>
+                                                <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                <autores>
+                                                    <autor>
+                                                      <nombre>nombre_autor1</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                                    </autor>
+
+                                                    <autor>
+                                                      <nombre>nombre_autor2</nombre>
+                                                      <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                                    </autor>
+
+
+                                              </autores>
+                                             </libro>
+
+
+
+                                        </libros>
+                                 </estante>
+
+                                 <estante>
+                                    <numero>numero_identificativo</numero>
+                                    <tema>tema_estante</tema>
+                                        <libros>
+                                            <libro>
+
+                                           <titulo>titulo_libro1</titulo>
+                                           <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                           <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                      </autores>
+                                             </libro>
+
+                                             <libro>
+
+                                          <titulo>titulo_libro2</titulo>
+                                          <fecha_publicacion>fecha_publicacion</fecha_publicacion>
+                                                   <autores>
+                                            <autor>
+                                              <nombre>nombre_autor1</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+                                            </autor>
+
+                                            <autor>
+                                              <nombre>nombre_autor2</nombre>
+                                              <fecha_nacimiento>fecha_nacimiento</fecha_nacimiento>
+
+
+                                            </autor>
+
+
+                                                  </autores>
+                                              </libro>
+                                       </libros>
+                                 </estante>
+
+
+                            </estantes>
+                    </sala>
+
+              </salas>
+
+
+      </biblioteca> 
+
+
+
+
+
+</bibliotecas>

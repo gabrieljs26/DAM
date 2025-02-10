@@ -1,0 +1,26 @@
+body {
+  font-family: Georgia, Cambria, serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-color: #cfc;
+  color: blue;
+}
+
+h1 {
+  font-family: Verdana, Calibri, sans-serif;
+  color: #f00;
+}
+
+h2 {
+  font-family: Verdana, Calibri, sans-serif;
+  font-size: 24px;
+  color: #a00;
+}
+
+.green {
+  color: #060;
+}
+.description {
+  color: blue;
+}

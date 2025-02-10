@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria xmlns:charla="http://ejemplo.com/charlas" xmlns:evento="http://ejemplo.com/eventos">
+
+    
+    <charla:item>
+        <id>1</id>
+        <nombre>nombre_charla</nombre>
+        <descripcion>descripcion</descripcion>
+    </charla:item>
+
+    <charla:item>
+        <charla:ID>2</charla:ID>
+        <charla:nombre>nombre_charla</charla:nombre>
+        <charla:descripcion>descripcion</charla:descripcion>
+    </charla:item>
+
+    <charla:item>
+        <charla:ID>3</charla:ID>
+        <charla:nombre>nombre_charla</charla:nombre>
+        <charla:descripcion>descripcion</charla:descripcion>
+    </charla:item>
+
+
+
+    <evento:item>
+        <evento:ID>1</evento:ID>
+        <evento:nombre>nombre_evento</evento:nombre>
+        <evento:descripcion>descripcion</evento:descripcion>
+    </evento:item>
+
+    <evento:item>
+        <evento:ID>2</evento:ID>
+        <evento:nombre>nombre_evento</evento:nombre>
+        <evento:descripcion>descripcion</evento:descripcion>
+    </evento:item>
+
+    <evento:item>
+        <evento:ID>3</evento:ID>
+        <evento:nombre>nombre_evento</evento:nombre>
+        <evento:descripcion>descripcion</evento:descripcion>
+    </evento:item>
+
+</libreria>

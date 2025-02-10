@@ -1,0 +1,42 @@
+<convencion xmnls:producto="https://ejemplo.com/producto" xmnls:expositor="https://ejemplo.com/expositor" >
+ 
+        <!-- Productos -->
+        <producto:item>
+            <producto:ID>101</producto:ID>
+            <producto:nombre>Smartphone X1</producto:nombre>
+            <producto:descripcion>Un smartphone de última generación con pantalla OLED.</producto:descripcion>
+        </producto:item>
+    
+        <producto:item>
+            <producto:ID>102</producto:ID>
+            <producto:nombre>Lenovo s12</producto:nombre>
+            <producto:descripcion>Laptop ultraligera con procesador de alto rendimiento.</producto:descripcion>
+        </producto:item>
+    
+        <producto:item>
+            <producto:ID>103</producto:ID>
+            <producto:nombre>Smartwatch Pro</producto:nombre>
+            <producto:descripcion>Reloj inteligente con monitor de salud avanzado.</producto:descripcion>
+        </producto:item>
+    
+        <!-- Expositores -->
+        <expositor:item>
+            <expositor:ID>201</expositor:ID>
+            <expositor:nombre>Harold</expositor:nombre>
+            <expositor:descripcion>Ingeniero de software especializado en IA.</expositor:descripcion>
+        </expositor:item>
+    
+        <expositor:item>
+            <expositor:ID>202</expositor:ID>
+            <expositor:nombre>Jane Smith</expositor:nombre>
+            <expositor:descripcion>Especialista en hardware y tecnología móvil.</expositor:descripcion>
+        </expositor:item>
+    
+        <expositor:item>
+            <expositor:ID>203</expositor:ID>
+            <expositor:nombre>Carlos Martínez</expositor:nombre>
+            <expositor:descripcion>Desarrollador de aplicaciones para dispositivos portátiles.</expositor:descripcion>
+        </expositor:item>
+    
+    </convencion>
+    
