@@ -9,12 +9,12 @@ public class lenguajeHacker {
         scanner.close();
 
         
-        String resultado = frase.replaceAll("(?i)a", "4").replaceAll("(?i)b", "8")
-                .replaceAll("(?i)c", "(").replaceAll("(?i)d", "\\|\\)")
-                .replaceAll("(?i)e", "3").replaceAll("(?i)g", "6")
-                .replaceAll("(?i)i", "1").replaceAll("(?i)l", "|_")
-                .replaceAll("(?i)o", "0").replaceAll("(?i)s", "$")
-                .replaceAll("(?i)t", "7").replaceAll("(?i)z", "2");
+        String resultado = frase.replace("a", "4").replace("b", "8")
+                .replace("c", "(").replace("d", "barra")
+                .replace("e", "3").replace("g", "6")
+                .replace("i", "1").replace("l", "|_")
+                .replace("o", "0").replace("s", "$")
+                .replace("t", "7").replace("z", "2");
 
        
         System.out.println("Texto en lenguaje hacker: " + resultado);
