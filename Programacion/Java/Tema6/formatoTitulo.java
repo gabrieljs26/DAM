@@ -1,3 +1,4 @@
+package Tema6;
 public class formatoTitulo {
     public static void main(String[] args) {
         String frase = "java es un lenguaje de programacion";

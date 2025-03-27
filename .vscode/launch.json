@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClaseInventario",
+            "request": "launch",
+            "mainClass": "Clases.ClaseInventario",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1EXAMEN",
+            "request": "launch",
+            "mainClass": "ejercicio1EXAMEN",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio2EXAMEN",
+            "request": "launch",
+            "mainClass": "ejercicio2EXAMEN",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ejemplo",
+            "request": "launch",
+            "mainClass": "ejemplo",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ejeplo",
+            "request": "launch",
+            "mainClass": "ejeplo",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "clase",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares.clase",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "extraccionNum",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares.extraccionNum",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "reemplazoFecha",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares.reemplazoFecha",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "validacionContraseña",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares.validacionContraseña",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "validacionURL",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares.validacionURL",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "Polindroma",
+            "request": "launch",
+            "mainClass": "Polindroma",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ahorcado",
+            "request": "launch",
+            "mainClass": "ahorcado",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "anagrama",
+            "request": "launch",
+            "mainClass": "anagrama",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "contadorCaracteres",
+            "request": "launch",
+            "mainClass": "contadorCaracteres",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "contadorPalabras",
+            "request": "launch",
+            "mainClass": "contadorPalabras",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "contraseñaSegura",
+            "request": "launch",
+            "mainClass": "contraseñaSegura",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "eliminacionCaracter",
+            "request": "launch",
+            "mainClass": "eliminacionCaracter",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "formatoTitulo",
+            "request": "launch",
+            "mainClass": "formatoTitulo",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "frecuenciaCaracter",
+            "request": "launch",
+            "mainClass": "frecuenciaCaracter",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "lenguajeHacker",
+            "request": "launch",
+            "mainClass": "lenguajeHacker",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "mayusMinus",
+            "request": "launch",
+            "mainClass": "mayusMinus",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "ordenarPalabras",
+            "request": "launch",
+            "mainClass": "ordenarPalabras",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "palabraLarga",
+            "request": "launch",
+            "mainClass": "palabraLarga",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "reemplazo",
+            "request": "launch",
+            "mainClass": "reemplazo",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "reservaHotel",
+            "request": "launch",
+            "mainClass": "reservaHotel",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "simulacroExamen",
+            "request": "launch",
+            "mainClass": "simulacroExamen",
+            "projectName": "DAM-1_79eb0a14"
+        },
+        {
+            "type": "java",
+            "name": "simulacroExamen2",
+            "request": "launch",
+            "mainClass": "simulacroExamen2",
+            "projectName": "DAM-1_79eb0a14"
+        }
+    ]
+}

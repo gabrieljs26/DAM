@@ -1,3 +1,4 @@
+package Tema6;
 public class mayusMinus {
 
     public static void main (String[]args) {

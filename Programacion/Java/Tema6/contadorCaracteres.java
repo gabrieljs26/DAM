@@ -1,3 +1,4 @@
+package Tema6;
 public class contadorCaracteres {
     public static void main(String[] args) {
         String cadena = "aaabbccccdd";
